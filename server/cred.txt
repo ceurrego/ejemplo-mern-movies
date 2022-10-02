@@ -1,0 +1,7 @@
+Please store your database authentication access details in a secure location: 
+Database User Username: Cluster57183
+Database User Password: ZGRcbk91eX5e
+
+Creating your cluster... [It's safe to 'Ctrl + C']
+Cluster created.
+Your connection string: mongodb+srv://cluster57183.bvvk63c.mongodb.net
